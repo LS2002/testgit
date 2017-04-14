@@ -7,3 +7,4 @@ print 'hello3'
 #print 'modified from master'
 #>>>>>>> master
 print 'merged dev and master'
+print "new change from dev'
