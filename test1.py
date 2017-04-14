@@ -8,3 +8,4 @@ print 'hello3'
 #>>>>>>> master
 print 'merged dev and master'
 print 'new changes'
+print 'another change from master'
